@@ -1,0 +1,5 @@
+1. Ensure you have a C++ compiler installed (e.g., g++).
+2. Navigate to the folder of the variant you want to run.
+3. Compile the program using: g++ prime_threads.cpp -o prime_threads -pthread
+4. Run the program using: ./prime_threads
+5. Observe the output in the terminal.
